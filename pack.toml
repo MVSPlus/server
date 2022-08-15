@@ -1,0 +1,16 @@
+name = "MVS+ Server"
+author = "MVS+"
+version = "1.0-alpha"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0a01ea6dfbdf31afe5a0ee740ec4cbbfad3ec367c4e19881a4c7a4ebd1d5a342"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.3"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1"]
