@@ -1,16 +1,16 @@
-name = "MVS+ Server"
+name = "MVS+Core"
 author = "MVS+"
-version = "1.0-alpha"
+version = "1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0a01ea6dfbdf31afe5a0ee740ec4cbbfad3ec367c4e19881a4c7a4ebd1d5a342"
+hash = "d4521805af0c223e41d6f6540bfd2f6bc527144d8bd27cf9bdd2a6b5ea352321"
 
 [versions]
-minecraft = "1.19.2"
-quilt = "0.17.3"
+fabric = "0.14.12"
+minecraft = "1.19.3"
 
 [options]
-acceptable-game-versions = ["1.19", "1.19.1"]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]

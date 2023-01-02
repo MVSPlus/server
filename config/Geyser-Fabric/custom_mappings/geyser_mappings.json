@@ -1,0 +1,295 @@
+{
+  "format_version": "1",
+  "items": {
+    "minecraft:blaze_rod": [
+      {
+        "name": "gmdl_fadccb4",
+        "allow_offhand": true,
+        "icon": "gmdl_fadccb4",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:brick": [
+      {
+        "name": "gmdl_f919632",
+        "allow_offhand": true,
+        "icon": "gmdl_f919632",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:ghast_tear": [
+      {
+        "name": "gmdl_59ff047",
+        "allow_offhand": true,
+        "icon": "gmdl_59ff047",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:gold_nugget": [
+      {
+        "name": "gmdl_1bb5c15",
+        "allow_offhand": true,
+        "icon": "gmdl_1bb5c15",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:leather_boots": [
+      {
+        "name": "gmdl_693c7a0",
+        "allow_offhand": true,
+        "icon": "gmdl_693c7a0",
+        "custom_model_data": 1
+      },
+      {
+        "name": "gmdl_93d4775",
+        "allow_offhand": true,
+        "icon": "gmdl_93d4775",
+        "custom_model_data": 2
+      },
+      {
+        "name": "gmdl_d7dd385",
+        "allow_offhand": true,
+        "icon": "gmdl_d7dd385",
+        "custom_model_data": 3
+      },
+      {
+        "name": "gmdl_93fbc69",
+        "allow_offhand": true,
+        "icon": "gmdl_93fbc69",
+        "custom_model_data": 4
+      }
+    ],
+    "minecraft:leather_chestplate": [
+      {
+        "name": "gmdl_62c889e",
+        "allow_offhand": true,
+        "icon": "gmdl_62c889e",
+        "custom_model_data": 1
+      },
+      {
+        "name": "gmdl_6e0d1dd",
+        "allow_offhand": true,
+        "icon": "gmdl_6e0d1dd",
+        "custom_model_data": 2
+      },
+      {
+        "name": "gmdl_7a0fa8f",
+        "allow_offhand": true,
+        "icon": "gmdl_7a0fa8f",
+        "custom_model_data": 3
+      },
+      {
+        "name": "gmdl_bec1796",
+        "allow_offhand": true,
+        "icon": "gmdl_bec1796",
+        "custom_model_data": 4
+      }
+    ],
+    "minecraft:leather_helmet": [
+      {
+        "name": "gmdl_44c0b89",
+        "allow_offhand": true,
+        "icon": "gmdl_44c0b89",
+        "custom_model_data": 1
+      },
+      {
+        "name": "gmdl_1cdf3cd",
+        "allow_offhand": true,
+        "icon": "gmdl_1cdf3cd",
+        "custom_model_data": 2
+      },
+      {
+        "name": "gmdl_7519514",
+        "allow_offhand": true,
+        "icon": "gmdl_7519514",
+        "custom_model_data": 3
+      },
+      {
+        "name": "gmdl_da487e8",
+        "allow_offhand": true,
+        "icon": "gmdl_da487e8",
+        "custom_model_data": 4
+      }
+    ],
+    "minecraft:leather_leggings": [
+      {
+        "name": "gmdl_0e0e3a6",
+        "allow_offhand": true,
+        "icon": "gmdl_0e0e3a6",
+        "custom_model_data": 1
+      },
+      {
+        "name": "gmdl_58ebb67",
+        "allow_offhand": true,
+        "icon": "gmdl_58ebb67",
+        "custom_model_data": 2
+      },
+      {
+        "name": "gmdl_9f36cdd",
+        "allow_offhand": true,
+        "icon": "gmdl_9f36cdd",
+        "custom_model_data": 3
+      },
+      {
+        "name": "gmdl_803dc71",
+        "allow_offhand": true,
+        "icon": "gmdl_803dc71",
+        "custom_model_data": 4
+      }
+    ],
+    "minecraft:stone_pickaxe": [
+      {
+        "name": "gmdl_5bfffc0",
+        "allow_offhand": true,
+        "icon": "gmdl_5bfffc0",
+        "custom_model_data": 1
+      },
+      {
+        "name": "gmdl_b520623",
+        "allow_offhand": true,
+        "icon": "gmdl_b520623",
+        "custom_model_data": 2
+      },
+      {
+        "name": "gmdl_a005fe6",
+        "allow_offhand": true,
+        "icon": "gmdl_a005fe6",
+        "custom_model_data": 3
+      },
+      {
+        "name": "gmdl_7fa7dc5",
+        "allow_offhand": true,
+        "icon": "gmdl_7fa7dc5",
+        "custom_model_data": 4
+      },
+      {
+        "name": "gmdl_bde3d89",
+        "allow_offhand": true,
+        "icon": "gmdl_bde3d89",
+        "custom_model_data": 5
+      },
+      {
+        "name": "gmdl_fe4bdcd",
+        "allow_offhand": true,
+        "icon": "gmdl_fe4bdcd",
+        "custom_model_data": 6
+      },
+      {
+        "name": "gmdl_c561d52",
+        "allow_offhand": true,
+        "icon": "gmdl_c561d52",
+        "custom_model_data": 7
+      },
+      {
+        "name": "gmdl_7bbfcdf",
+        "allow_offhand": true,
+        "icon": "gmdl_7bbfcdf",
+        "custom_model_data": 8
+      },
+      {
+        "name": "gmdl_ede2fd5",
+        "allow_offhand": true,
+        "icon": "gmdl_ede2fd5",
+        "custom_model_data": 9
+      },
+      {
+        "name": "gmdl_7584c1e",
+        "allow_offhand": true,
+        "icon": "gmdl_7584c1e",
+        "custom_model_data": 10
+      }
+    ],
+    "minecraft:structure_void": [
+      {
+        "name": "gmdl_61cb1f3",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 1
+      },
+      {
+        "name": "gmdl_7ced680",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 2
+      },
+      {
+        "name": "gmdl_357851e",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 3
+      },
+      {
+        "name": "gmdl_4469cf2",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 4
+      }
+    ],
+    "minecraft:wooden_pickaxe": [
+      {
+        "name": "gmdl_4dfa7a8",
+        "allow_offhand": true,
+        "icon": "gmdl_4dfa7a8",
+        "custom_model_data": 1
+      },
+      {
+        "name": "gmdl_b5b7cf7",
+        "allow_offhand": true,
+        "icon": "gmdl_b5b7cf7",
+        "custom_model_data": 2
+      },
+      {
+        "name": "gmdl_983e93c",
+        "allow_offhand": true,
+        "icon": "gmdl_983e93c",
+        "custom_model_data": 3
+      },
+      {
+        "name": "gmdl_e65ab46",
+        "allow_offhand": true,
+        "icon": "gmdl_e65ab46",
+        "custom_model_data": 4
+      },
+      {
+        "name": "gmdl_2670735",
+        "allow_offhand": true,
+        "icon": "gmdl_2670735",
+        "custom_model_data": 5
+      },
+      {
+        "name": "gmdl_7c6e60c",
+        "allow_offhand": true,
+        "icon": "gmdl_7c6e60c",
+        "custom_model_data": 6
+      },
+      {
+        "name": "gmdl_cb95d20",
+        "allow_offhand": true,
+        "icon": "gmdl_cb95d20",
+        "custom_model_data": 7
+      },
+      {
+        "name": "gmdl_63a8a09",
+        "allow_offhand": true,
+        "icon": "gmdl_63a8a09",
+        "custom_model_data": 8
+      },
+      {
+        "name": "gmdl_7ca0199",
+        "allow_offhand": true,
+        "icon": "gmdl_7ca0199",
+        "custom_model_data": 9
+      },
+      {
+        "name": "gmdl_9df6d02",
+        "allow_offhand": true,
+        "icon": "gmdl_9df6d02",
+        "custom_model_data": 10
+      }
+    ]
+  }
+}

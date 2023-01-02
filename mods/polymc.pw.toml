@@ -1,0 +1,7 @@
+name = "PolyMc"
+filename = "PolyMc-5.3.0+1.19.3.jar"
+
+[download]
+url = "https://github.com/TheEpicBlock/PolyMc/releases/download/5.3.0/PolyMc-5.3.0+1.19.3.jar"
+hash-format = "sha1"
+hash = "38aa5f812434e40e60b4a9156879d773e4745b49"

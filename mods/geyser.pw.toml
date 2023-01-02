@@ -1,0 +1,7 @@
+name = "Geyser"
+filename = "Geyser-Fabric.jar"
+
+[download]
+url = "https://ci.opencollab.dev/job/GeyserMC/job/Geyser/job/master/1262/artifact/bootstrap/fabric/build/libs/Geyser-Fabric.jar"
+hash-format = "sha1"
+hash = "46c258faee3f5760c562ce1933850bf6da6267de"
